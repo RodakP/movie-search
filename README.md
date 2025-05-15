@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Przemysław Rodak</h1>
-<h3 align="center">The "movie-search" application was created thanks to the free API - "https://www.themoviedb.org/". A simple application that allows you to search for current movie releases, add them to favorites and remove them.. The "movie-search" application was created using:</h3>
+<p align="center">The "movie-search" application was created thanks to the free API - "https://www.themoviedb.org/". A simple application that allows you to search for current movie releases, add them to favorites and remove them.. The "movie-search" application was created using:</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js" />
+  </a>
+</p>
 </div>
 
 
